@@ -1,0 +1,5 @@
+*~
+*.pyc
+anagrams/config/development.ini
+anagrams/config/production.ini
+data/
