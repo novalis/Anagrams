@@ -17,4 +17,13 @@ Tweak the config file as appropriate and then setup the application::
 
     paster setup-app config.ini
 
+Edit hookbox.sh
+
 Then you are ready to go.
+
+
+Running
+======================
+./hookbox.sh&
+python hookserver.py&
+paster serve [ini file]
